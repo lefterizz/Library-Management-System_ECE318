@@ -120,7 +120,7 @@ These diagrams describe:
 
 ## Repository Structure
 ```
-ECE318_LibraryManagementSys/
+Library-Management-System_ECE318/
 │ ├── src/ # Application source code
 │ │ ├── main/java/
 │ │ │ ├── model/ # Entity classes
