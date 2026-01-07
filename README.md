@@ -119,6 +119,7 @@ These diagrams describe:
 ---
 
 ## Repository Structure
+```
 ECE318_LibraryManagementSys/
 │ ├── src/ # Application source code
 │ │ ├── main/java/
@@ -136,7 +137,7 @@ ECE318_LibraryManagementSys/
 ├── class_diag318.drawio.png # Class diagram
 ├── use_case318.drawio.png # Use case diagram
 └── README.md
-
+```
 ---
 
 ## Build and Run
