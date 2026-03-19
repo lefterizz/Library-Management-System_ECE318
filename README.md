@@ -147,7 +147,7 @@ Library-Management-System_ECE318/
 3. Verify database connection settings in the source code
 4. Navigate to the project directory:
 ```
-cd ECE318_LibraryManagementSys_UC1069790
+cd ECE318_LibraryManagementSys
 ```
 5. Build the project:
 ```
